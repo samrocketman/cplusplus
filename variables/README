@@ -1,0 +1,21 @@
+This is my cpp program.
+
+This is in a git repository.
+
+There is a make file with many make commands.
+
+    make
+
+will simply compile and run the program.
+
+    make edit
+
+will open the program source in an editor.
+
+    make read
+
+will read this readme.
+
+    make clean
+
+will clean up the directory of all binaries.
